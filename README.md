@@ -11,10 +11,10 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielArthu&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
     <div>
-     <img height=200 align="center" src="./aws.png" />
-     <img height=200 align="center" src="./aws1.png" />
-     <img height=200 align="center" src="./aws2.png" />
-     <img height=200 align="center" src="./aws3.png" />
+      <a href="https://www.credly.com/badges/f5c334ad-4dfd-4779-bffa-2e01bff1bee6/public_url" > <img height=100 align="center" src="./aws.png" /> </a>
+      <a href="https://www.credly.com/badges/2526ee04-e805-4f15-9179-e5b5fefe4f07/public_url" > <img height=100 align="center" src="./aws1.png" /> </a>
+      <a href="https://www.credly.com/badges/c8614340-98ea-404a-9186-efd0bebe0f40/public_url)" > <img height=100 align="center" src="./aws2.png" /> </a>
+      <a href="https://www.credly.com/badges/0c19f8d3-a113-43b6-9bb2-9f99667031f6/public_url" > <img height=100 align="center" src="./aws3.png" /> </a>
     </div>
   </div>
 
